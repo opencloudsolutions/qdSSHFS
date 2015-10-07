@@ -1,5 +1,4 @@
 # qdSSHFS
-# Quick &amp; Dirty SSH Filesystem Implementation
 # Quick & Dirty SSH Filesystem Mount - Bash Implementation
 # Copyright (C) 2015  OpenCloudSolutions@gmail.com
 #
